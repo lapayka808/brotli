@@ -1,7 +1,6 @@
 tests/testdata/* binary
 
 # Exclude everything
-**/** export-ignore
 
 # Add top-level files
 .bazelignore !export-ignore
